@@ -1,4 +1,4 @@
-package com.lggy.userservice;
+package com.iggy.userservice;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
