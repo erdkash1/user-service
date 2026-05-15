@@ -2,8 +2,6 @@ package com.iggy.userservice.entity;
 
 import jakarta.persistence.*;
 import lombok.Data;
-
-import javax.management.relation.Role;
 import java.time.LocalDateTime;
 
 @Entity
