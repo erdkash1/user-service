@@ -1,4 +1,4 @@
-package com.lggy.userservice;
+package com.iggy.userservice;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
